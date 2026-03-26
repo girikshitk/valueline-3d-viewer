@@ -11,29 +11,29 @@
         rooms: ['Bathroom', 'Kitchen', 'Facade'],
         skins: ['Arabasque', 'Calacattaluxe'],
         images: {
-            'Bathroom_Arabasque_Day': 'Model Photos/Bathroom_Arabasque_Day.png',
-            'Bathroom_Arabasque_Night': 'Model Photos/Bathroom_Arabasque_Night.png',
-            'Bathroom_Calacattaluxe_Day': 'Model Photos/Bathroom_Calacattaluxe_Day.png',
-            'Bathroom_Calacattaluxe_Night': 'Model Photos/Bathroom_Calacattaluxe_Night.png',
-            'Facade_Arabasque_Day': 'Model Photos/Facade_Arabasque_Day.png',
-            'Facade_Arabasque_Night': 'Model Photos/Facade_Arabasque_Night.png',
-            'Facade_Calacattaluxe_Day': 'Model Photos/Facade_Calacattaluxe_Day.png',
-            'Facade_Calacattaluxe_Night': 'Model Photos/Facade_Calacattaluxe_Night.png',
-            'Kitchen_Arabasque_Day': 'Model Photos/Kitchen_Arabasque_Day.png',
-            'Kitchen_Arabasque_Night': 'Model Photos/Kitchen_Arabasque_Night.png',
-            'Kitchen_Calacattaluxe_Day': 'Model Photos/Kitchen_Calcattaluxe_Day.png',
-            'Kitchen_Calacattaluxe_Night': 'Model Photos/Kitchen_Calacattaluxe_Night.png'
+            'Bathroom_Arabasque_Day': 'model photos/bathroom_arabasque_day.png',
+            'Bathroom_Arabasque_Night': 'model photos/bathroom_arabasque_night.png',
+            'Bathroom_Calacattaluxe_Day': 'model photos/bathroom_calacattaluxe_day.png',
+            'Bathroom_Calacattaluxe_Night': 'model photos/bathroom_calacattaluxe_night.png',
+            'Facade_Arabasque_Day': 'model photos/facade_arabasque_day.png',
+            'Facade_Arabasque_Night': 'model photos/facade_arabasque_night.png',
+            'Facade_Calacattaluxe_Day': 'model photos/facade_calacattaluxe_day.png',
+            'Facade_Calacattaluxe_Night': 'model photos/facade_calacattaluxe_night.png',
+            'Kitchen_Arabasque_Day': 'model photos/kitchen_arabasque_day.png',
+            'Kitchen_Arabasque_Night': 'model photos/kitchen_arabasque_night.png',
+            'Kitchen_Calacattaluxe_Day': 'model photos/kitchen_calcattaluxe_day.png',
+            'Kitchen_Calacattaluxe_Night': 'model photos/kitchen_calacattaluxe_night.png'
         },
         gallery: {
             'Arabesque': [
-                'Gallery photos/Arabesque/Arabesque_furniture.jpg',
-                'Gallery photos/Arabesque/arabesque_detail.jpg',
-                'Gallery photos/Arabesque/arabesque_kitchen.jpg'
+                'gallery photos/arabesque/arabesque_furniture.jpg',
+                'gallery photos/arabesque/arabesque_detail.jpg',
+                'gallery photos/arabesque/arabesque_kitchen.jpg'
             ],
             'Calacatta Luxe': [
-                'Gallery photos/calacatta luxe/calacatta luxe_1.jpg',
-                'Gallery photos/calacatta luxe/calacatta luxe_3.jpg',
-                'Gallery photos/calacatta luxe/calacatta_luxe_2.jpg'
+                'gallery photos/calacutta luxe/calacatta luxe_1.jpg',
+                'gallery photos/calacutta luxe/calacatta luxe_3.jpg',
+                'gallery photos/calacutta luxe/calacatta_luxe_2.jpg'
             ]
         }
     };
